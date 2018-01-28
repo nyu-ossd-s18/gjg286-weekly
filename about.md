@@ -4,9 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
+My name is Gabe Gordon. I am a junior in CAS studying Computer Science. This site is for the Open Source Software Development course.
