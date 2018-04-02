@@ -8,6 +8,7 @@ Week Number| Contribution | Type
  |4 | [Course Web](https://github.com/joannakl/cs480_s18/pull/67) | PR|
  |4 | [Course Web](https://github.com/joannakl/cs480_s18/issues/4) | Issue|
  |4 | [Course Web](https://github.com/joannakl/cs480_s18/issues/8) | Issue|
+ |3 | [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Gabegordon) | Other|
  |3 | [Course Web](https://github.com/joannakl/cs480_s18/issues/6) | Issue|
 
 
